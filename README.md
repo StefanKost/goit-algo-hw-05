@@ -5,3 +5,9 @@ Search algorithms
 ```bash
 python hash_table.py
 ```
+
+## Task 2 (Binary Search)
+Calculate the number of iterations and find the upper bound of the first element that is equal to or greater than the target.
+```bash
+python binary_search.py
+```
