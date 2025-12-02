@@ -42,3 +42,8 @@ Compare substring search algorithms: **Boyer-Moore**, **Knuth-Morris-Pratt**, an
 4. **Fictional vs Existing patterns**:
     - All algorithms are slower on fictional patterns because the full text must be scanned
     - The slowdown is most pronounced for **Rabin-Karp**, which increases from `~0.4`s to `~2–3`s
+
+### Run benchmark
+```bash
+python search_benchmark.py
+```
